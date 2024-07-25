@@ -3,7 +3,7 @@
 <a href="https://publiccim.com">Web Sitesi</a>
 <br>
 <a href="https://publiccim.com/shop">Publiccim Shop</a>
-<br>
+<br><br>
 <strong>Discord sunucumuza katılıp ticket açarak botların fiyatını öğrenebilirsin.</strong>
 <br>
 
