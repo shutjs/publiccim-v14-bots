@@ -44,5 +44,5 @@
 - Discord: [_shut](https://discord.com/users/669513018777796638)
 
 # Yardımcılar
-[.shenz](https://discord.com/users/742612162752544892) 
+- [.shenz](https://discord.com/users/742612162752544892) 
 
