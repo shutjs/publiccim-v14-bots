@@ -11,7 +11,7 @@
 
 # 📷 Bazı Görüntüler
 <details>
- <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180335.png">
+ <img width="250" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180335.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180347.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180115.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180125.png">
