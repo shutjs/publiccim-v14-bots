@@ -1,8 +1,7 @@
 <a href="https://publiccim.com">Web Sitesi</a>
-<br>
+<br><br>
 <strong>Discord sunucumuza katılıp botların fiyatını öğrenebilirsin.</strong>
 <br>
-
 [![Discord](https://api.weblutions.com/discord/invite/publiccim/)](https://discord.gg/publiccim)
 <br> </br>
 
