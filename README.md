@@ -38,6 +38,11 @@
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180316.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180323.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180327.png">
-
-
 </details>
+
+# İletişim
+- Discord: [_shut](https://discord.com/users/669513018777796638)
+
+# Yardımcılar
+[.shenz](https://discord.com/users/742612162752544892) 
+
