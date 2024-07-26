@@ -1,0 +1,1 @@
+const shut = require("shutjs");
