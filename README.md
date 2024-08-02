@@ -37,7 +37,7 @@
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180255.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180301.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180306.png">
- <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180316.png">
+ 
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180323.png">
  <img width="650" alt="image" src="https://github.com/shutjs/publiccim-v14-bots/blob/main/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-25%20180327.png">
 </details>
