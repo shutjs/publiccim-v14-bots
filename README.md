@@ -48,3 +48,4 @@
 # Yardımcılar
 - [.shenz](https://discord.com/users/742612162752544892) 
 
+- [Only](https://discord.com/users/331791735938351106)
