@@ -7,7 +7,7 @@
 <strong>Discord sunucumuza katılıp ticket açarak botların fiyatını öğrenebilirsin.</strong>
 <br>
 
-[![Discord](https://api.weblutions.com/discord/invite/publiccim/)](https://discord.gg/publiccim)
+[![Discord](https://api.weblutions.com/discord/invite/dcvote/)](https://discord.gg/dcvote)
 <br> </br>
 
 
